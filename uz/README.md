@@ -1,0 +1,6 @@
+# Learnpedia (O'zbek)
+Bu proekt studentlarga hamma narsani tez o'rganish uchun oylab topilgan
+Author: [@umidjon-2231](https://github.com/umidjon-2231)\
+Oxirgi yangilanish: 12.09.2022
+# Fanlar
+* [Fizika](./fizika/README.md)
